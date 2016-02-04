@@ -1,0 +1,4 @@
+[submodule "jruby"]
+	path = jruby
+	url = git@github.com:stride-nyc/jruby.git
+	branch = current_version
